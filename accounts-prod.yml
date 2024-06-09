@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Production APIs"
+  message: "Welcome to EazyBank accounts related ProductionPP APIs"
   contactDetails:
     name: "Saidurga - Product Owner"
     email: "{cipher}28517503cbcdd43c4c81251ed967a890cb6aeb737eed12e3e1be17a4831821ef119f561bc5dcaaedf4b9991cdfa3df8f"
