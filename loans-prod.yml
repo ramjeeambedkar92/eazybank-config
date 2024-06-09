@@ -2,7 +2,7 @@ build:
   version: "1.0l"
 
 loans:
-  message: "Welcome to eazybank Loans related ProductionPP APIs"
+  message: "Welcome to eazybank Loans related ProductionDept APIs"
   contactDetails:
     name: "saidurga - Product Owner"
     email: "saidurga_prod_owner@eazybank.com"
