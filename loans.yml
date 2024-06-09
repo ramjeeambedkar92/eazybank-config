@@ -1,0 +1,11 @@
+build:
+  version: "3.0l"
+
+loans:
+  message: "Welcome to eazybank Loans related Dev APIs"
+  contactDetails:
+    name: "ramjee - developer"
+    email: "ramjee_dev@eazybank.com"
+  onCallSupport:
+    - "(555) 2323888"
+    - "(555) 2323777"

@@ -1,0 +1,11 @@
+build:
+  version: "1.0l"
+
+loans:
+  message: "Welcome to eazybank Loans related Prod APIs"
+  contactDetails:
+    name: "saidurga - Product Owner"
+    email: "saidurga_prod_owner@eazybank.com"
+  onCallSupport:
+    - "(666) 2323888"
+    - "(666) 2323777"

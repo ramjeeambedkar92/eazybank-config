@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Dev APIs"
+  contactDetails:
+    name: "ramjee - developer"
+    email: "ramjeeDev@eazybank.com"
+  onCallSupport:
+    - (222) 88998899
+    - (222) 88998800

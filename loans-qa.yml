@@ -1,0 +1,13 @@
+
+
+build:
+  version: "2.0l"
+
+loans:
+  message: "Welcome to eazybank Loans related QA APIs"
+  contactDetails:
+    name: "sairam - Test Lead"
+    email: "sairam_test_lead@eazybank.com"
+  onCallSupport:
+    - "(666) 2323888"
+    - "(666) 2323777"

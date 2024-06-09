@@ -1,0 +1,13 @@
+
+
+build:
+  version: 3.3c
+
+cards:
+  message: "Welcome to Eazybank Cards related Dev APIs"
+  contactDetails:
+    name: "ramjee - developer"
+    email: "ramjee_dev@eazybank.com"
+  onCallSupport:
+    - "(888) 9440460"
+    - "(888) 9440462"

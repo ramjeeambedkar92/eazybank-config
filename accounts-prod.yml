@@ -1,0 +1,13 @@
+
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs"
+  contactDetails:
+    name: "Saidurga - Product Owner"
+    email: "saidurgaProdOwner@eazybank.com"
+  onCallSupport:
+    - (444) 88998899
+    - (444) 88998800

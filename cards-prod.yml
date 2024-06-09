@@ -1,0 +1,13 @@
+
+
+build:
+  version: 3.1c
+
+cards:
+  message: "Welcome to Eazybank Cards related Prod APIs"
+  contactDetails:
+    name: "saidurga - Product owner"
+    email: "saidurga_prod@eazybank.com"
+  onCallSupport:
+    - "(000) 9440460"
+    - "(000) 9440462"

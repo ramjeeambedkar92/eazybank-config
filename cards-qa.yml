@@ -1,0 +1,12 @@
+
+build:
+  version: 3.2c
+
+cards:
+  message: "Welcome to Eazybank Cards related QA APIs"
+  contactDetails:
+    name: "sairam - tester"
+    email: "sairam_qa@eazybank.com"
+  onCallSupport:
+    - "(999) 9440460"
+    - "(999) 9440462"

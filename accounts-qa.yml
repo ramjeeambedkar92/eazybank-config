@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "sairam - Tester"
+    email: "sairamQA@eazybank.com"
+  onCallSupport:
+    - (333) 88998899
+    - (333) 88998800
