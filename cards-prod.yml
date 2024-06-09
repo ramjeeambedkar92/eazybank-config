@@ -4,7 +4,7 @@ build:
   version: 3.1c
 
 cards:
-  message: "Welcome to Eazybank Cards related ProductionPP APIs"
+  message: "Welcome to Eazybank Cards related ProductionDept APIs"
   contactDetails:
     name: "saidurga - Product owner"
     email: "saidurga_prod@eazybank.com"
